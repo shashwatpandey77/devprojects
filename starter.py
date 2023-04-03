@@ -1,0 +1,1 @@
+print(f"Hi 2+2 is equalt to {2+2}")
